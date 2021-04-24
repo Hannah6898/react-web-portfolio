@@ -21,7 +21,7 @@ export default function Project() {
               </div>
             </div>
             <div className="col d-flex align-items-center">
-              <div className="project-decription">
+              <div>
                 <h3>Weather app - React</h3>
                 <p>
                   A REACT Weather application using a weather API.
@@ -49,9 +49,9 @@ export default function Project() {
             </div>
           </div>
 
-          <div className="row mb-5">
+          <div className="row  mb-5">
             <div className="col d-flex align-items-center">
-              <div className="project-decription">
+              <div>
                 <h3>Dictionary - React</h3>
                 <p>
                   A REACT Dictionary app using a dictionary and image API.
@@ -60,6 +60,7 @@ export default function Project() {
                   a working dictionary app incorporating coding best practices,
                   along with the most popular tools and technologies.
                 </p>
+
                 <a
                   href="https://gallant-boyd-0ddfe2.netlify.app/"
                   target="_blank"

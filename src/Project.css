@@ -25,12 +25,6 @@
   margin: 0 10px 0 0;
 }
 
-@media (min-width: 992px) {
-  .d-lg-block {
-    display: block !important;
-  }
-}
-
 #projects {
   height: 950px;
   display: inline-block;
@@ -39,5 +33,11 @@
 @media (max-width: 768px) {
   .Projects {
     text-align: center;
+  }
+}
+
+@media (min-width: 992px) {
+  .d-lg-block {
+    display: block !important;
   }
 }

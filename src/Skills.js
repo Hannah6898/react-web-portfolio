@@ -7,7 +7,7 @@ export default function Skills() {
       <div className="Skills">
         <h2 className="heading">Skills</h2>
 
-        <div className="row g-8">
+        <div className="row ">
           <div className="col-3">
             <div className="h-100">
               <i className="fab fa-html5 html skills-icon"></i>

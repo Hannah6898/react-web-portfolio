@@ -9,15 +9,14 @@ export default function About() {
           <h2 className="heading">About Me</h2>
 
           <p className="text-sm-start">
-            I am a web developer who started their coding journey last year due
-            to my love for learning new skills. <br />
-            I have a strong knowledge of front-end languages including React,
-            CSS and JavaScript shown through my projects below. <br />
-            I am also eager to expand my knowledge through learning languages
-            including .... <br />
-            So far learning to code has been challenging but also the most
-            rewarding experience and I hope to use the skills I've learnt to
-            create projects that add value.
+            I am a front-end developer who through self-motivation and hard work
+            has learnt to code whilst working full time. I am competent in
+            several coding languages including React and JavaScript and eager to
+            learn more. I have proven my skills through developing projects such
+            as React weather and dictionary apps which you can find linked
+            below. Currently I’m seeking a long-term position where I can
+            utilise my transferable skills such as problem solving and data
+            analysis; and increase my knowledge.
           </p>
         </div>
       </div>

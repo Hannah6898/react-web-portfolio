@@ -6,15 +6,15 @@
   padding-bottom: 30px;
 }
 
-.weather-app {
+.Projects .weather-app {
   width: 50%;
 }
 
-.dictionary {
+.Projects .dictionary {
   width: 75%;
 }
 
-button {
+.Projects button {
   background: #1a1b1f;
   color: white;
   font-size: 12px !important;

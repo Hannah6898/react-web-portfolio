@@ -24,22 +24,24 @@ export default function Project() {
               <div className="project-decription">
                 <h3>Weather app - React</h3>
                 <p>
-                  I built a Vanilla JavaScript weather app in SheCodes Plus, an
-                  advanced 8-week JavaScript coding workshop. Building upon my
-                  previously-gained knowledge, I also became skilled in
-                  Bootstrap, API’s, real-life development workflow, hosting, and
-                  advanced JavaScript. I combined all of these skills to create
-                  a fully-functioning weather app.
+                  A REACT Weather application using a weather API.
+                  <br /> I built a React weather app as part of my SheCodes
+                  React coding workshop. I became skilled in Bootstrap, API’s,
+                  real-life development workflow, hosting and advanced
+                  Javascript. I combined all these skills to create a full -
+                  functioning weather app.
                 </p>
                 <a
                   href="https://fervent-galileo-89d4fe.netlify.app/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <button type="button">See Live</button>
                 </a>
                 <a
                   href="https://github.com/Hannah6898/react-weather-app"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <button type="button">Source Code</button>
                 </a>
@@ -52,23 +54,23 @@ export default function Project() {
               <div className="project-decription">
                 <h3>Dictionary - React</h3>
                 <p>
-                  I built a Vanilla JavaScript weather app in SheCodes Plus, an
-                  advanced 8-week JavaScript coding workshop. Building upon my
-                  previously-gained knowledge, I also became skilled in
-                  Bootstrap, API’s, real-life development workflow, hosting, and
-                  advanced JavaScript. I combined all of these skills to create
-                  a fully-functioning weather app.
+                  A REACT Dictionary app using a dictionary and image API.
+                  <br /> I built a Dictionary App as part of SheCodes React. I
+                  used my knowledge of this highly -demanded framework to build
+                  a working dictionary app incorporating coding best practices,
+                  along with the most popular tools and technologies.
                 </p>
-
                 <a
                   href="https://gallant-boyd-0ddfe2.netlify.app/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <button type="button">See Live</button>
                 </a>
                 <a
                   href="https://github.com/Hannah6898/react-dictionary"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <button type="button">Source Code</button>
                 </a>
@@ -79,7 +81,7 @@ export default function Project() {
                 <img
                   src={Dictionary}
                   className="img-fluid dictionary"
-                  alt="WeatherApp project preview"
+                  alt="Dictionary project preview"
                 />
               </div>
             </div>

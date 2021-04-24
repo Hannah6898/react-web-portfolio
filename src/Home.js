@@ -17,7 +17,7 @@ export default function Home() {
           </div>
         </div>
         <div className="col-5 d-flex justify-content-start align-items-center">
-          <img src={homeImage} />
+          <img src={homeImage} alt="home illustration" />
         </div>
       </div>
     </section>

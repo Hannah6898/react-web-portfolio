@@ -1,4 +1,4 @@
-.contact-details {
+.Contact {
   margin: 30px 0 20px 0;
 }
 
@@ -7,12 +7,16 @@
   padding: 0 20px 0 20px;
 }
 
-a i {
+.Contact h2 {
+  text-align: center;
+}
+
+.Contact a i {
   color: black;
   transition: all 2ms ease-in-out;
 }
 
-a i:hover {
+.Contact a i:hover {
   color: #6c63ff;
   cursor: pointer;
 }

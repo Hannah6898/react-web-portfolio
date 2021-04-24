@@ -6,13 +6,12 @@ export default function Footer() {
     <div className="Footer">
       <p>
         This website was coded by Hannah Osibodu, and is<span> </span>
-        <a href="/" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/Hannah6898/react-web-portfolio"
+          target="_blank"
+          rel="noreferrer"
+        >
           open sourced
-        </a>
-        <span> </span>
-        and hosted on<span> </span>
-        <a href="/" target="_blank" rel="noreferrer">
-          Netlify
         </a>
       </p>
     </div>

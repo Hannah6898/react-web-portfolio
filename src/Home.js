@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <section className="Home" id="home">
       <div className="row">
-        <div className="col-7">
+        <div className="col-7 col-sm-7">
           <div className="home-text">
             <h2 className="heading">Hey There!</h2>
             <h3>
@@ -16,7 +16,7 @@ export default function Home() {
             <h4>A Front-end Developer based in the UK</h4>
           </div>
         </div>
-        <div className="col-5 d-flex justify-content-start align-items-center">
+        <div className="col-5 col-sm-5 d-flex justify-content-start align-items-center">
           <img src={homeImage} alt="home illustration" />
         </div>
       </div>

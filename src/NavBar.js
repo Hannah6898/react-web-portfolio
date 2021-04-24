@@ -29,6 +29,11 @@ export default function NavBar() {
                   </a>
                 </li>
                 <li className="nav-item">
+                  <a className="nav-link" href="#about">
+                    About
+                  </a>
+                </li>
+                <li className="nav-item">
                   <a className="nav-link" href="#projects">
                     Projects
                   </a>
@@ -38,11 +43,7 @@ export default function NavBar() {
                     Skills
                   </a>
                 </li>
-                <li className="nav-item">
-                  <a className="nav-link" href="#about">
-                    About
-                  </a>
-                </li>
+
                 <li className="nav-item">
                   <a className="nav-link" href="#contact">
                     Contact

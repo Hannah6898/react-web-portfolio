@@ -1,5 +1,5 @@
 .Projects {
-  margin-top: 100px;
+  margin-top: 150px;
 }
 
 .Projects h2 {
@@ -32,6 +32,6 @@ button {
 }
 
 #projects {
-  height: 900px;
+  height: 950px;
   display: inline-block;
 }

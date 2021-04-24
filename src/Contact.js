@@ -5,6 +5,7 @@ export default function Contact() {
   return (
     <div>
       <div class="contact-details" id="contact">
+        <hr />
         <div class="container">
           <div class="row">
             <div class="col text-center">
@@ -40,7 +41,8 @@ export default function Contact() {
             Open source
           </a>
           <span> </span>
-          by Hannah Osibodu
+          by Hannah Osibodu This website was coded by Patricia Pereira, and is
+          open-sourced and is hosted on Netlify
         </p>
       </div>
     </div>

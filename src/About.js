@@ -1,14 +1,14 @@
 import React from "react";
 import "./About.css";
 
-export default function Skills() {
+export default function About() {
   return (
-    <div className="about">
-      <section id="about">
+    <section id="about">
+      <div className="About">
         <div>
-          <h2 class="heading">About Me</h2>
+          <h2 className="heading">About Me</h2>
 
-          <p>
+          <p className="text-sm-start">
             I am a web developer who started their coding journey last year due
             to my love for learning new skills. <br />
             I have a strong knowledge of front-end languages including React,
@@ -21,8 +21,7 @@ export default function Skills() {
             create projects that add value to people's lives.
           </p>
         </div>
-      </section>
-      <hr />
-    </div>
+      </div>
+    </section>
   );
 }

@@ -1,0 +1,18 @@
+.about {
+  margin-top: 150px;
+}
+
+section {
+  margin: 5rem 0 0 5rem;
+}
+
+#about {
+  height: 650px;
+  display: inline-block;
+}
+@media (max-width: 900px) {
+  .about section {
+    margin: 2rem 0 0 0;
+    text-align: center;
+  }
+}

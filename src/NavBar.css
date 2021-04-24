@@ -1,0 +1,24 @@
+.NavBar header {
+  position: fixed;
+  background: white;
+  width: 99%;
+  top: 0;
+  margin: 0;
+  z-index: 5;
+  box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.1);
+}
+
+.NavBar .nav-name {
+  display: inline;
+  font-weight: bolder !important;
+  font-size: 20px !important;
+  line-height: 28px !important;
+  text-decoration: underline !important;
+}
+
+.NavBar .navigation-bar {
+  font-weight: 600px !important;
+  font-size: 15px !important;
+  line-height: 20px !important;
+  color: #32343a;
+}

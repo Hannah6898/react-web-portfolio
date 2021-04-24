@@ -1,0 +1,27 @@
+.Home h2 {
+  font-size: 36px;
+  line-height: 34px;
+  font-weight: 600px;
+}
+
+.home-text {
+  margin-top: 225px;
+}
+
+.Home h2 {
+  font-size: 25px;
+}
+
+.Home h3 {
+  font-size: 64px;
+}
+
+.Home h4 {
+  font-size: 30px;
+  margin-bottom: 10rem;
+}
+
+#home {
+  height: 650px;
+  display: inline-block;
+}

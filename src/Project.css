@@ -1,0 +1,30 @@
+.Projects {
+  margin-top: 65px;
+}
+
+.Projects h2 {
+  padding-bottom: 15px;
+}
+
+.Projects .card-img-top {
+  width: 20% !important;
+}
+
+.Projects button {
+  background: #1a1b1f;
+  color: white;
+  font-size: 12px !important;
+  line-height: 20px !important;
+  border-style: none;
+  text-transform: uppercase !important;
+  padding: 12px 25px;
+}
+.Project .project-btn {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#projects {
+  height: 900px;
+  display: inline-block;
+}

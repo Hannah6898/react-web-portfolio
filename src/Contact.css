@@ -1,0 +1,22 @@
+.contact-details {
+  margin: 30px 0 20px 0;
+}
+
+.contact-icon {
+  font-size: 50px;
+  padding: 0 10px 0 10px;
+}
+
+.link p {
+  text-align: center;
+  margin-top: 15px;
+}
+
+a i {
+  color: black;
+}
+
+a i:hover {
+  color: orange;
+  cursor: pointer;
+}

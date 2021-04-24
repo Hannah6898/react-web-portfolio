@@ -35,16 +35,6 @@ export default function Contact() {
         </div>
       </div>
       <hr />
-      <div class="link">
-        <p>
-          <a href="https://github.com/Hannah6898/Web-Portfolio" target="_blank">
-            Open source
-          </a>
-          <span> </span>
-          by Hannah Osibodu This website was coded by Patricia Pereira, and is
-          open-sourced and is hosted on Netlify
-        </p>
-      </div>
     </div>
   );
 }

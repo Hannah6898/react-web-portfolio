@@ -1,4 +1,5 @@
 import React from "react";
+import "./Project.css";
 import weatherapp from "./img/weatherapp.png";
 import Dictionary from "./img/Dictionary.png";
 
@@ -7,38 +8,61 @@ export default function Project() {
     <section id="projects" className="Projects">
       <h2 className="heading">Projects</h2>
 
-      <div className="row">
-        <div className="col-6">
-          <div className="card w-60">
-            <img src={weatherapp} className="project-img" alt="Weather App" />
-            <div className="card-body">
-              <h5 className="card-title">Weather App</h5>
-              <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+      <div className="container">
+        <div className="row mb-5">
+          <div className="col d-none d-lg-block">
+            <div className="image d-flex justify-content-center">
+              <img
+                src={weatherapp}
+                className="img-fluid weather-app"
+                alt="WeatherApp project preview"
+              />
+            </div>
+          </div>
+          <div className="col d-flex align-items-center">
+            <div className="project-decription">
+              <h3>Weather app</h3>
+              <p>
+                I built a Vanilla JavaScript weather app in SheCodes Plus, an
+                advanced 8-week JavaScript coding workshop. Building upon my
+                previously-gained knowledge, I also became skilled in Bootstrap,
+                API’s, real-life development workflow, hosting, and advanced
+                JavaScript. I combined all of these skills to create a
+                fully-functioning weather app.
               </p>
-              <div className="project-btn">
-                <a href="projects.html">
-                  <button type="button">See More</button>
-                </a>
-              </div>
+
+              <button type="button">See More</button>
+              <button type="button">See More</button>
+              <button type="button">See More</button>
             </div>
           </div>
         </div>
-        <div className="col-6">
-          <div className="card w-90">
-            <img src={Dictionary} alt="Dictionary" />
-            <div className="card-body">
-              <h5 className="card-title">Dictionary</h5>
-              <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+
+        <div className="row mb-5">
+          <div className="col d-flex align-items-center">
+            <div className="project-decription">
+              <h3>Weather app</h3>
+              <p>
+                I built a Vanilla JavaScript weather app in SheCodes Plus, an
+                advanced 8-week JavaScript coding workshop. Building upon my
+                previously-gained knowledge, I also became skilled in Bootstrap,
+                API’s, real-life development workflow, hosting, and advanced
+                JavaScript. I combined all of these skills to create a
+                fully-functioning weather app.
               </p>
-              <div className="project-btn">
-                <a href="projects.html">
-                  <button type="button">See More</button>
-                </a>
-              </div>
+
+              <button type="button">See More</button>
+              <button type="button">See More</button>
+              <button type="button">See More</button>
+            </div>
+          </div>
+          <div className="col d-none d-lg-block ">
+            <div className="image d-flex justify-content-center">
+              <img
+                src={Dictionary}
+                className="img-fluid dictionary"
+                alt="WeatherApp project preview"
+              />
             </div>
           </div>
         </div>

@@ -17,6 +17,6 @@ a i {
 }
 
 a i:hover {
-  color: orange;
+  color: blue;
   cursor: pointer;
 }

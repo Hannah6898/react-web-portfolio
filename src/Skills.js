@@ -4,7 +4,7 @@ import "./Skills.css";
 export default function Skills() {
   return (
     <section id="skills">
-      <div class="skills">
+      <div class="Skills">
         <h2 class="heading">Skills</h2>
 
         <div class="row g-8">
@@ -46,7 +46,7 @@ export default function Skills() {
 
           <div class="col-3">
             <div class="h-100">
-              <i class="fas fa-cogs skills-icon"></i>
+              <i class="fas fa-cogs skills-icon api"></i>
               <div class="card-body">
                 <h5 class="card-title">API</h5>
               </div>

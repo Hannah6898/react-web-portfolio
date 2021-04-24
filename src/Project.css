@@ -6,8 +6,8 @@
   padding-bottom: 15px;
 }
 
-.Projects .card-img-top {
-  width: 20% !important;
+.project-img {
+  width: 20px;
 }
 
 .Projects button {

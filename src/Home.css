@@ -3,9 +3,8 @@
   line-height: 34px;
   font-weight: 600px;
 }
-
 .home-text {
-  margin-top: 225px;
+  margin-top: 240px;
 }
 
 .Home h2 {
@@ -21,7 +20,11 @@
   margin-bottom: 10rem;
 }
 
+.Home img {
+  width: 80%;
+}
+
 #home {
-  height: 600px;
+  height: 550px;
   display: inline-block;
 }

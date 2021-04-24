@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <section className="Home" id="home">
       <div className="row">
-        <div className="col-7 d-flex flex-sm-wrap ">
+        <div className="col-7  ">
           <div className="home-text">
             <h2 className="heading">Hey There!</h2>
             <h3>

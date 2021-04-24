@@ -42,3 +42,9 @@
   height: 650px;
   display: inline-block;
 }
+
+@media (max-width: 768px) {
+  .Skills {
+    text-align: center;
+  }
+}

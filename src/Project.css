@@ -35,3 +35,9 @@
   height: 950px;
   display: inline-block;
 }
+
+@media (max-width: 768px) {
+  .Projects {
+    text-align: center;
+  }
+}

@@ -3,8 +3,8 @@
 }
 
 .About p {
-  margin: 40px 20px 0 0;
-  font-size: 20px;
+  margin: 45px 20px 0 0;
+  font-size: 23px;
 }
 
 @media (max-width: 768px) {

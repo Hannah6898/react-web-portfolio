@@ -6,6 +6,10 @@
   padding-bottom: 30px;
 }
 
+.Projects p {
+  font-size: 19px;
+}
+
 .Projects .weather-app {
   width: 50%;
 }

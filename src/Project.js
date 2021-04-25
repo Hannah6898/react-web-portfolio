@@ -50,7 +50,7 @@ export default function Project() {
           </div>
 
           <div className="row  mb-5">
-            <div className="col d-flex align-items-center">
+            <div className="col">
               <div>
                 <h3>Dictionary - React</h3>
                 <p>

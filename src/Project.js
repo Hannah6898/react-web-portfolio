@@ -24,12 +24,10 @@ export default function Project() {
               <div>
                 <h3>Weather app - React</h3>
                 <p>
-                  A REACT Weather application using a weather API.
-                  <br /> I built a React weather app as part of my SheCodes
-                  React coding workshop. I became skilled in Bootstrap, API’s,
-                  real-life development workflow, hosting and advanced
-                  Javascript. I combined all these skills to create a full -
-                  functioning weather app.
+                  I built a React weather app as part my SheCodes React coding
+                  course. Through this project I became skilled in using
+                  Bootstrap, API's, real- life development workflow, hosting and
+                  JavaScript.
                 </p>
                 <a
                   href="https://fervent-galileo-89d4fe.netlify.app/"
@@ -54,30 +52,30 @@ export default function Project() {
               <div>
                 <h3>Dictionary - React</h3>
                 <p>
-                  A REACT Dictionary app using a dictionary and image API.
-                  <br /> I built a Dictionary App as part of SheCodes React. I
-                  used my knowledge of this highly -demanded framework to build
+                  I built a React Dictionary app as part of SheCodes React
+                  Course. I used the knowledge I'd gained on the course to build
                   a working dictionary app incorporating coding best practices,
-                  along with the most popular tools and technologies.
+                  along with popular technologies such as API's and JavaScript.
                 </p>
-
-                <a
-                  href="https://gallant-boyd-0ddfe2.netlify.app/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <button type="button">See Live</button>
-                </a>
-                <a
-                  href="https://github.com/Hannah6898/react-dictionary"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <button type="button">Source Code</button>
-                </a>
+                <div>
+                  <a
+                    href="https://gallant-boyd-0ddfe2.netlify.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <button type="button">See Live</button>
+                  </a>
+                  <a
+                    href="https://github.com/Hannah6898/react-dictionary"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <button type="button">Source Code</button>
+                  </a>
+                </div>
               </div>
             </div>
-            <div className="col d-none d-lg-block ">
+            <div className="col  d-none d-lg-block">
               <div className="image d-flex justify-content-center">
                 <img
                   src={Dictionary}

@@ -34,13 +34,13 @@
   display: inline-block;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
   .Projects {
     text-align: center;
   }
 }
 
-@media (min-width: 1112px) {
+@media (min-width: 1200px) {
   .d-lg-block {
     display: block !important;
   }

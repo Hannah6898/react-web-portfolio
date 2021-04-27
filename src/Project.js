@@ -43,6 +43,13 @@ export default function Project() {
                 >
                   <button type="button">Source Code</button>
                 </a>
+                <a
+                  href="https://hannahosibodu583859.invisionapp.com/freehand/Weather-App-QmESz2J3k"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button type="button">Wire frame</button>
+                </a>
               </div>
             </div>
           </div>
@@ -71,6 +78,13 @@ export default function Project() {
                     rel="noreferrer"
                   >
                     <button type="button">Source Code</button>
+                  </a>
+                  <a
+                    href="https://hannahosibodu583859.invisionapp.com/freehand/Dictionary-osLR8Dby"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <button type="button">Wire frame</button>
                   </a>
                 </div>
               </div>

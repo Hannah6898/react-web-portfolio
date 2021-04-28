@@ -13,7 +13,7 @@ export default function Home() {
             <h3>
               I'm <strong>Hannah</strong>
             </h3>
-            <h4>A Front-end Developer based in the UK</h4>
+            <h4>A Software Developer based in the UK</h4>
           </div>
         </div>
         <div className="col-5 d-flex justify-content-start align-items-center ">

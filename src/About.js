@@ -9,7 +9,7 @@ export default function About() {
           <h2 className="heading">About Me</h2>
 
           <p className="text-sm-start">
-            I am a front-end developer who through self-motivation and hard work
+            I am a software developer who through self-motivation and hard work
             has learnt to code whilst working full time. I am competent in
             several coding languages including React and JavaScript, and am
             continuing to further my learning. I have proven my skills through

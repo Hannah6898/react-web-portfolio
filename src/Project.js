@@ -2,6 +2,7 @@ import React from "react";
 import "./Project.css";
 import weatherapp from "./img/weatherapp.png";
 import Dictionary from "./img/Dictionary.png";
+import YoutubeClone from "./img/Youtube-clone.png";
 
 export default function Project() {
   return (
@@ -10,6 +11,43 @@ export default function Project() {
         <h2 className="heading">Projects</h2>
 
         <div className="container">
+          <div className="row  mb-5">
+            <div className="col d-flex align-items-center">
+              <div>
+                <h3>Youtube Homepage clone</h3>
+                <p>
+                  Built a clone of the Youtube homepage using HTML, CSS,
+                  Bootstrap and some JavaScript.
+                </p>
+                <div>
+                  <a
+                    href="https://elegant-sinoussi-498e6f.netlify.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <button type="button">See Live</button>
+                  </a>
+                  <a
+                    href="https://github.com/Hannah6898/Youtube-Clone"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <button type="button">Source Code</button>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col  d-none d-lg-block">
+              <div className="image d-flex justify-content-center">
+                <img
+                  src={YoutubeClone}
+                  className="img-fluid dictionary"
+                  alt="Dictionary project preview"
+                />
+              </div>
+            </div>
+          </div>
+
           <div className="row mb-5">
             <div className="col d-none d-lg-block">
               <div className="image d-flex justify-content-center">
@@ -24,7 +62,7 @@ export default function Project() {
               <div>
                 <h3>Weather app - React</h3>
                 <p>
-                  I built a React weather app as part my SheCodes React coding
+                  Developed a React weather app as part my SheCodes React coding
                   course. Through this project I became skilled in using
                   Bootstrap, API's, real- life development workflow, hosting and
                   JavaScript.
@@ -59,7 +97,7 @@ export default function Project() {
               <div>
                 <h3>Dictionary - React</h3>
                 <p>
-                  I built a React Dictionary app as part of SheCodes React
+                  Created a React Dictionary app as part of SheCodes React
                   Course. I used the knowledge I'd gained on the course to build
                   a working dictionary app incorporating coding best practices,
                   along with popular technologies such as API's and JavaScript.

@@ -6,9 +6,3 @@
 .App section {
   margin: 2.5rem 0 0 5rem;
 }
-
-@media (max-width: 768px) {
-  .App section {
-    margin: 0;
-  }
-}

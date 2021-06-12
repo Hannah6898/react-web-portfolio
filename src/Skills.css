@@ -47,4 +47,7 @@
   .Skills {
     text-align: center;
   }
+  #skills {
+    margin: 0;
+  }
 }

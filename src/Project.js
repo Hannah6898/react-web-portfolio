@@ -3,6 +3,7 @@ import "./Project.css";
 import weatherapp from "./img/weatherapp.png";
 import Dictionary from "./img/Dictionary.png";
 import YoutubeClone from "./img/Youtube-clone.png";
+import Drumkit from "./img/DrumKit.png";
 
 export default function Project() {
   return (
@@ -11,43 +12,6 @@ export default function Project() {
         <h2 className="heading">Projects</h2>
 
         <div className="container">
-          <div className="row  mb-5">
-            <div className="col d-flex align-items-center">
-              <div>
-                <h3>Youtube Homepage clone</h3>
-                <p>
-                  Built a clone of the Youtube homepage using HTML, CSS,
-                  Bootstrap and some JavaScript.
-                </p>
-                <div>
-                  <a
-                    href="https://elegant-sinoussi-498e6f.netlify.app/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <button type="button">See Live</button>
-                  </a>
-                  <a
-                    href="https://github.com/Hannah6898/Youtube-Clone"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <button type="button">Source Code</button>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div className="col  d-none d-lg-block">
-              <div className="image d-flex justify-content-center">
-                <img
-                  src={YoutubeClone}
-                  className="img-fluid dictionary"
-                  alt="Dictionary project preview"
-                />
-              </div>
-            </div>
-          </div>
-
           <div className="row mb-5">
             <div className="col d-none d-lg-block">
               <div className="image d-flex justify-content-center">
@@ -133,6 +97,77 @@ export default function Project() {
                   src={Dictionary}
                   className="img-fluid dictionary"
                   alt="Dictionary project preview"
+                />
+              </div>
+            </div>
+          </div>
+
+          <div className="row mb-5">
+            <div className="col d-none d-lg-block">
+              <div className="image d-flex justify-content-center">
+                <img
+                  src={YoutubeClone}
+                  className="img-fluid dictionary"
+                  alt="YouTube clone project preview"
+                />
+              </div>
+            </div>
+            <div className="col d-flex align-items-center">
+              <div>
+                <h3>Youtube Homepage clone</h3>
+                <p>
+                  Built a clone of the Youtube homepage using HTML, CSS,
+                  Bootstrap and some JavaScript.
+                </p>
+                <a
+                  href="https://elegant-sinoussi-498e6f.netlify.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button type="button">See Live</button>
+                </a>
+                <a
+                  href="https://github.com/Hannah6898/Youtube-Clone"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button type="button">Source Code</button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="row  mb-5">
+            <div className="col d-flex align-items-center">
+              <div>
+                <h3>JavaScript Drumkit</h3>
+                <p>
+                  Created a JavaScript Drum kit using Keyboard events and styled
+                  using CSS grid.
+                </p>
+                <div>
+                  <a
+                    href="https://dreamy-kalam-3b5e13.netlify.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <button type="button">See Live</button>
+                  </a>
+                  <a
+                    href="https://github.com/Hannah6898/JavaScript-Drum-Kit"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <button type="button">Source Code</button>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col  d-none d-lg-block">
+              <div className="image d-flex justify-content-center">
+                <img
+                  src={Drumkit}
+                  className="img-fluid dictionary"
+                  alt="Drum kit project preview"
                 />
               </div>
             </div>

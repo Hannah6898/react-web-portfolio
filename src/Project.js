@@ -26,10 +26,11 @@ export default function Project() {
               <div>
                 <h3>Weather app - React</h3>
                 <p>
-                  Developed a React weather app as part my SheCodes React coding
-                  course. Through this project I became skilled in using
-                  Bootstrap, API's, real- life development workflow, hosting and
-                  JavaScript.
+                  A weather application which dynamically displays the present
+                  weather of the users desired location and current location,
+                  using Open Weather Map API. Through this project I became
+                  skilled in using Bootstrap, API's, real- life development
+                  workflow, hosting and JavaScript.
                 </p>
                 <a
                   href="https://fervent-galileo-89d4fe.netlify.app/"
@@ -61,10 +62,8 @@ export default function Project() {
               <div>
                 <h3>Dictionary - React</h3>
                 <p>
-                  Created a React Dictionary app as part of SheCodes React
-                  Course. I used the knowledge I'd gained on the course to build
-                  a working dictionary app incorporating coding best practices,
-                  along with popular technologies such as API's and JavaScript.
+                  A dictionary application which displays meanings and images of
+                  a users searched word; using multiple API calls.
                 </p>
                 <div>
                   <a
@@ -116,8 +115,8 @@ export default function Project() {
               <div>
                 <h3>Youtube Homepage clone</h3>
                 <p>
-                  Built a clone of the Youtube homepage using HTML, CSS,
-                  Bootstrap and some JavaScript.
+                  Developed a site clone of the YouTube homepage using HTML,
+                  CSS, Bootstrap and JavaScript.
                 </p>
                 <a
                   href="https://elegant-sinoussi-498e6f.netlify.app/"
@@ -141,8 +140,8 @@ export default function Project() {
               <div>
                 <h3>JavaScript Drumkit</h3>
                 <p>
-                  Created a JavaScript Drum kit using Keyboard events and styled
-                  using CSS grid.
+                  Created a Drum Kit, designed using CSS grid and implementing
+                  Keyboard events
                 </p>
                 <div>
                   <a
